@@ -1,5 +1,3 @@
-nes (7 sloc)  214 Bytes
-
 const express = require('express');
 const app = express();
 
